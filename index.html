@@ -1,51 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Google Clone</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Document</title>
 </head>
-
 <body>
-    <nav>
-        <a href="#">Gmail</a>
-        <a href="#">Images</a>
-    </nav>
+    <div id="container">
+        <header id="header">
+            <img src="images/elAmigoLogo.png" alt="el Amigo Logo"/>
+        </header>
 
-    <main>
-        <div class="logo">
-            <img src="google_logo.png"
-        </div>
-        <div class="search-container">
-            <div class="search-box">
-                <input type="text" class="search-input" id="searchInput">
-            </div>
-            <div class="search-buttons">
-                <button class="search-btn" onclick="performSearch()">Google Search</button>
-                <button class="search-btn">I'm Feeling Lucky</button>
-            </div>
-        </div>
-    </main>
+        <section id="content" class="content-block">
+            <h1>The Best craft Pizza in Charlotte</h1>
+            <p>Beinvenidos amigos! We are a fictional pizza place. We have the best pizza in Charlotte</p> 
+        </section>
 
-    <footer>
-        <div class="footer-content">
-            <div class="footer-links">
-                <a href="#">About</a>
-                <a href="#">Advertising</a>
-                <a href="#">Business</a>
-                <a href="#">How Search works</a>
-            </div>
-            <div class="footer-links">
-                <a href="#">Privacy</a>
-                <a href="#">Terms</a>
-                <a href="#">Settings</a>
-            </div>
-        </div>
-    </footer>
+        <section id="reserve" class="content-block">
+            <h2>Make a Reservation </h2>
+            <p>Save your spot</p>
 
-    <script src="script.js"></script>
+            <form>
+                <label for="your_name">Your name</label>
+                <input type="text" id="your_name" placeholder="Jane Miller">
+
+                <label for="your_email>">Your email</label>
+                <input type="text" id="your_email" placeholder="your@email.com"/>
+            </form>
+
+            </section>
+
+        <footer id="footer" class="content-block">
+                <p>&copy; 2024 El Amigo</p>
+            </footer>
+        </div>
 </body>
-
 </html>
