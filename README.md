@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate and motivated entry-level web developer with experience in HTML, CSS, JavaScript, and Python. I love building clean, responsive websites and diving into the world of software engineering to solve real-world problems. With a background in cybersecurity and a drive for continuous learning, I'm currently honing my skills and looking to contribute to meaningful projects. When I’m not coding, you can find me playing basketball or exploring the latest in car technology. Let's build something amazing together!
+👋 Hi there! I'm a passionate and motivated entry-level web developer with experience in HTML, CSS, JavaScript, and Python. I love building clean, responsive websites and diving into the world of software engineering to solve real-world problems. With a background in cybersecurity and a drive for continuous learning, I'm always improving, and  sharpening my skills and looking to contribute to meaningful projects. When I’m not coding, you can find me playing basketball or exploring the latest in car technology. Let's build something amazing together!
 
 
 ## 🌐 Socials:
